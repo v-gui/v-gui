@@ -2,8 +2,9 @@
 
 - 🌱 Estudando Python e C
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-gui&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-gui&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-gui&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-gui&show_icons=true&theme=dark)
+
 
 <!--
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,

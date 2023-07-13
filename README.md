@@ -1,7 +1,7 @@
 # Guilherme Vieira Pereira
 
 Olá, Sou estudante de Análise e Desenvolvimento de Sistemas com paixão por tecnologia e economia. Busco constantemente o crescimento profissional em ambas as áreas, pois acredito na interseção entre elas como um meio de impulsionar soluções inovadoras e eficientes.
-Possuo sólidas habilidades em raciocínio lógico e resolução de problemas, o que me permite abordar desafios complexos de maneira estruturada e eficaz. Além disso, tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar objetivos comuns.
+
 
 ## Linguagens que possuo conhecimento: 
 

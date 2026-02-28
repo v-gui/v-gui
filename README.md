@@ -24,8 +24,13 @@ Estou desenvolvendo o **AcadeMe**, uma plataforma voltada para estudantes compar
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v-gui&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&icon_color=30A3DC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-gui&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=v-gui&theme=dracula&bg_color=000000&color=30A3DC&line=30A3DC&point=E94D5F&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-gui&layout=compact&theme=vision-friendly-dark&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" />
 </div>
 
 ---

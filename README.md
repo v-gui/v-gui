@@ -1,6 +1,8 @@
 # Guilherme Vieira Pereira
 
-Olá, Sou estudante de Análise e Desenvolvimento de Sistemas com paixão por tecnologia e economia. Busco constantemente o crescimento profissional em ambas as áreas, pois acredito na interseção entre elas como um meio de impulsionar soluções inovadoras e eficientes.
+Profissional de tecnologia com foco em análise de dados e background em Economia. Especialista em traduzir requisitos de negócio em soluções técnicas robustas, possuo experiência no desenvolvimento de Dashboards, automação de processos e manipulação de bases de dados complexas.
+
+Acredito que a tecnologia é o principal motor de eficiência econômica. Por isso, foco meu trabalho na criação de ferramentas que não apenas funcionem, mas que impulsionem a rentabilidade e a produtividade. Sou movido por desafios que exijam pensamento analítico, colaboração em equipe e visão de longo prazo.
 
 
 ## Linguagens que possuo conhecimento: 

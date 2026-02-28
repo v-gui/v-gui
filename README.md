@@ -24,9 +24,9 @@ Estou desenvolvendo o **AcadeMe**, uma plataforma voltada para estudantes compar
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=v-gui&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=30A3DC&icon_color=E94D5F" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=v-gui&show_icons=true&theme=dracula&hide_border=true&title_color=30A3DC&icon_color=E94D5F" alt="Estatísticas do GitHub" />
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v-gui&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=30A3DC" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v-gui&layout=compact&theme=dracula&hide_border=true&title_color=30A3DC" alt="Linguagens mais usadas" />
 </div>
 
 ---
